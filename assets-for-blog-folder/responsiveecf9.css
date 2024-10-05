@@ -1,0 +1,2198 @@
+@media only screen and (min-width:2560px) {    
+    .banner_slide .item img {height: auto}
+}
+
+@media only screen and (max-width:1600px) {
+    .landingPage_caption h1 
+    {
+        font-size: 42px;
+        line-height: 65px
+    }
+    .bg-gray {min-height: 550px}
+    .section_title2 h1,
+    .section_title2 h4 
+    {
+        font-size: 42px;
+        line-height: 58px
+    }
+    .section_title2 span {font-size: 46px}
+    .bg-lighhtgray {min-height: 197px}
+}
+
+@media only screen and (max-width:1440px) {    
+    .img_title-wrap {padding-left: 35%}
+    .map iframe {height: 293px}
+    .hireheaderwrap{height: 500px;}
+    .hireheaderwrap .carousel-caption 
+    {
+        width: 90%;
+        margin-top: 3em;
+    }
+    .carousel-caption 
+    {
+        top: -3%;
+        width: 80%
+    }
+    .caption-left 
+    {
+        width: 45%;
+        right: 675px
+    }
+    .caption-right 
+    {
+        left: 686px;
+        width: 45%
+    }
+    h1 {font-size: 34px}
+    .landingPage_caption h1 
+    {
+        font-size: 36px;
+        line-height: 68px
+    }
+    .bg-gray {min-height: 650px}
+    .section_title2 h1,
+    .section_title2 h4 
+    {
+        font-size: 39px;
+        line-height: 53px
+    }
+    .section_title2 span {font-size: 41px}
+    .bg-lighhtgray {min-height: 178px}
+    .wt-right-part {width: 650px;}
+    .section-head h2{font-size: 29px;}
+    .time-material-next-step{background-position: 85% 50%;}
+    .carouselh1heading {font-size: 26px;}
+    .form-join input {margin-bottom: 0;}
+    .form-join textarea {margin-bottom: 10px;}
+}
+
+@media only screen and (max-width:1366px) {
+    .hireheaderwrap .carousel-caption 
+    {
+        width: 90%;
+        margin-top: 1em;
+        top: 0;
+    }
+    .landingPage_caption h1 {line-height: 59px!important;}
+    .section_title2 h1,
+    .section_title2 h4 
+    {
+        font-size: 34px;
+        line-height: 53px
+    }
+    .section_title2 span {font-size: 39px!important;}
+    .bg-lighhtgray {min-height: 176px!important;}
+    .img_title-wrap {padding-left: 39%}
+    .map iframe {height: 275px}
+    .title-wrap2 {
+        margin-left: 27%
+    }
+    div.how-assisted-plans-work .plan-steps,
+    div.outsourcing-digital-soln .plan-steps {
+        width: 80%
+    }
+    .section-head h2 {
+        font-size: 27px;
+    }
+    .speech-bubble-1, .speech-bubble-2, .speech-bubble-3, .speech-bubble-4, .speech-bubble-5, .speech-bubble-6, .speech-bubble-7{
+        height: 180px;
+    }
+    .about-clutch .wt-box img{max-width: 85%;}
+    .Clutch-certificate{max-width: 70%;}
+    .carousel-caption 
+    {
+        top: 8%;
+        width: 80%
+    }
+    .header_caption h1{line-height: 35px;}
+    .welcome_text_area{margin-top: 11%;}
+    .carouselh1heading {font-size: 26px;}
+    .da-slider{height: 480px;}
+    .da-slide{top: 7%;}
+    .da-slide-current h2, .da-slide-current p, .da-slide-current .da-link {left: 9%;}
+    .da-slide p{font-size: 16px;}
+    .da-slide .da-img{top: 34px;}
+    .da-slide-current .da-img {left: 58%;}
+    .portfolio-text p{font: 400 13px 'Mulish', sans-serif;}
+    .img-absolute {right: -25%;}
+    .img-absolute img {max-width: 720px;}
+    .bg-lighhtgray .service-style-1{height: 200px;}
+    .da-slide {top: 7%;}
+    .da-slide-current h2, .da-slide-current p, .da-slide-current .da-link {left: 7%;}
+    .da-slide-current .da-img {
+        left: 58%;
+    }
+    .da-slide .da-img {
+        top: 26px;
+    }
+    .portfolio-text{
+        min-height: 145px;
+    }
+    .slovenia-industries-section:before{display: none;}
+    .feature-box-04 .feature-box-inner{height:375px;}
+
+    /*outsiurce new page css start SK*/
+    .whychoose-sec > .pixle-logo {width: 200px;height: 200px;}
+     /*outsiurce new page css end SK*/
+    /*cryptocurrency Page css start sk*/
+    .crypt_srvc .col-md-5.imgwpr{ margin-left:-15px; padding-left: 0; padding-right:0;  }
+    /*cryptocurrency Page css end sk*/
+    /*Case study slider css start*/
+    .ourcase-sec .caseRow {padding: 50px;min-height: 400px;}
+    .ourcase-sec .casebg {padding: 40px 0 0;}
+    .ourcase-sec .caseRow .contentbox { padding: 0 5em 0 0;}
+    /*Case study slider css End*/
+    .welcome_text_arean {margin-top: 7%!important;}
+}
+
+@media only screen and (min-width:460px) and (max-width:599px){.landingPage_caption2{left:-40px!important}.landingPage_caption2 h1{margin-top:9px;font-size:21px;line-height:26px}.landing_locations h4{font-size:16px;line-height:23px}.landing_heading h3{font-size:23px}.landing_locations{bottom:43px}.tabimg1,.tabimg2,.tabimg3,.tabimg4,.tabimg5{background-image:none}}
+
+@media only screen and (min-width:300px) and (max-width:600px){.carousel-indicators,.tabs hr,.link-list li a{white-space:initial}.accreditations .col-md-12,.accreditations .col-md-3{min-height:100%}.tabs{position:static;background-color:#fff}.carousel-caption{width:80%;left:0}.slide_bttn.left,.slide_bttn.right{top:30px}.panel-default>.panel-heading{border-color:transparent}.tabs h4.panel-title a{font-family:'Roboto Slab',serif}.tabs h4 img{margin:1px 4px 0 0}.panel-heading{border-top-left-radius:0;border-top-right-radius:0}.panel-group .panel{border-radius:0}.our-software-products{margin-top:50px}.landingPage_caption2 h1{margin-top:0}.landingPage_caption2{top:0}.sil_tech h2{font-size:23px}.wsmenucontainer.wsoffcanvasopener{margin-left:295px}.wsoffcanvasopener .animated-arrow{left:282px}.carousel{top:54px}.landing_heading{margin-top:58%}.carousel-caption{top:0}.landingPage_caption h1{line-height:25px!important}h5:after{margin-left:156px}.tabimg1,.tabimg2,.tabimg3,.tabimg4,.tabimg5{background-image:none}.mobile-sub .wsmenu-submenu li .wsmenu-submenu-sub li a{padding-left:6px}.social-list{width:auto!important;display:inline-block!important;margin:5px}@media screen and (max-width:600px){.sucess_wp .column{width:100%;display:block;margin-bottom:20px}}}
+
+@media only screen and (min-width:600px) and (max-width:767px){.carousel-indicators,.tabs hr,.carousel-caption{top:2%;width:80%;left:0}.inner_banner{/*margin-top:75px*/margin-top:25px}.accreditations .col-md-12,.accreditations .col-md-3{min-height:100%}.slide_bttn.left,.slide_bttn.right{top:80px}.tabs{position:static;background-color:#fff}.landingPage_caption2{top:0}.landingPage_caption2 h1{margin-top:0;font-size:24px}.panel-default>.panel-heading{border-color:transparent}.tabs h4.panel-title a{font-family:'Roboto Slab',serif}.tabs h4 img{margin:1px 4px 0 0}.panel-heading{border-top-left-radius:0;border-top-right-radius:0}.panel-group .panel{border-radius:0}.our-software-products{margin-top:50px}.wsmenu>.wsmenu-list>li>a.active{color:#fff!important;background-color:#35accc!important}.landing_heading{margin-top:43%}.bg-gray{min-height:104px}.tabimg1,.tabimg2,.tabimg3,.tabimg4,.tabimg5{background-image:none}div.how-assisted-plans-work .plan-steps .step:nth-child(odd) .step-text,div.outsourcing-digital-soln .plan-steps .step:nth-child(odd) .step-text{padding-right:0;margin-left:0}div.how-assisted-plans-work .plan-steps .step .step-text,div.outsourcing-digital-soln .plan-steps .step .step-text{width:100%}.banner_slide{margin-top:54px}.banner_slide .item img{width:100%;height:100px}.active>div{display:block}}
+
+@media only screen and (min-width:768px) and (max-width:991px){.carousel-indicators,.tabs hr,.accreditations .col-md-12,.accreditations .col-md-3{min-height:100%}.slide_bttn.left,.slide_bttn.right{top:104px}h1{font-size:35px;margin-top:0}.tabs{position:static;background-color:#fff}.panel-default>.panel-heading{border-color:transparent}.tabs h4.panel-title a{font-family:'Roboto Slab',serif}.tabs h4 img{margin:1px 4px 0 0}.panel-heading{border-top-left-radius:0;border-top-right-radius:0}.panel-group .panel{border-radius:0}.panel{background-color:#fff}.our-software-products{margin-top:50px}.landingPage_caption2{top:2%;width:70%}.wsmenu>.wsmenu-list>li>a.active{color:#fff!important;background-color:#35accc!important}.landingPage_caption2 h1{margin-top:0}h5:after{margin-left:305px}.tabimg1,.tabimg2,.tabimg3,.tabimg4,.tabimg5{background-image:none}.banner_slide{margin-top:54px}.carousel-caption{display:block!important}.header_caption .simh1,.header_caption h1{margin-top:5px!important;margin-bottom:5px!important}.about-clutch .section-head h2{text-align:center}.whychoose-sec .col-lg-5{-webkit-box-flex:0;-webkit-flex:0 0 48.666667%;-ms-flex:0 0 48.666667%;flex:0 0 48.666667%;max-width:48.666667%}.wrimagecard-topimage_title p{font-size:14px}.tabing-sec li{width:23%} .dotnetpgsectio{
+    padding-top: 80px;} .netsubtn{padding-top: 18px;padding-left: 0px;}
+}
+@media only screen and (min-width:361px) and (max-width:640px){.banner_slide{/*margin-top:80px*/margin-top:55px}.carousel-caption{display:block!important}.about-clutch .section-head h2{text-align:center}}
+
+@media only screen and (min-width:992px) and (max-width:1199px){.tabs{bottom:-439px}.tab-content.responsive{min-height:442px}.tabs .nav-tabs>li>a hr{margin-top:9px}.slide_bttn.left,.slide_bttn.right{top:42%}.our-software-products{margin-top:482px}.landing_heading{margin-top:26%}.wsmenu>.wsmenu-list>li .menuhomeicon{padding-left:10px;padding-right:10px}.wsmenu>.wsmenu-list>li>a .wsarrow:after{right:10px}.wsmenu>.wsmenu-list>li>a>.wsarrow{display:inline-block}.wsmenu{font-size:12px}.wsmenu>.wsmenu-list>li>a{padding-left:8px;padding-right:8px}.slovenia-industries-right-column .peerbits-awards-box{padding:10px 3px}.slovenia-industries-left-column{padding:74px 70px 75px 52px}.Hiring{height:370px}.slovenia-our-hiring-models .speech-bubble-2{height:600px}#Industries-we-Serve span{font-size:11px}}
+
+@media only screen and (max-width:640px) and (orientation:landscape){body{width:100%;height:100%;background-size:cover!important;background-repeat:no-repeat!important}.main{display:none}}
+
+@media only screen and (max-width:1280px) {
+    .nav>li>a {
+        padding: 10px 13px
+    }
+    .logo img {
+        margin-left: 0
+    }
+    .team_container {
+        width: 1200px
+    }
+    .colum {
+        width: 25%
+    }
+    .twopic .colum {
+        width: 50%;
+        margin-bottom: 10px
+    }
+    .threepic .colum {
+        width: 33.3%;
+        margin-bottom: 10px
+    }
+    .colum {
+        float: left;
+        margin-bottom: 60px
+    }
+    .tabs .nav-tabs>li>a {
+        padding: 5% 10% 6%
+    }
+    .section-head h2 {
+        font-size: 25px;
+    }
+    .header_caption h1, .header_caption .simh1{font-size: 3.5rem;}
+    .carousel-caption {top: 15px;}
+    .bg-gray {min-height: 690px;}
+    /*Case study slider css start*/
+    .ourcase-sec .caseRow .caseimgbox { flex: 0 0 40%;} 
+    .ourcase-sec .caseRow .contentbox {flex: 0 0 60%;padding: 0 2em 0 0;}
+    /*Case study slider css End*/
+}
+
+@media only screen and (min-width:1200) {
+    .tabs .nav-tabs>li>a {
+        font-size: 13px
+    }
+    .sil_tech .text-center img {
+        width: 100%;
+        height: auto
+    }
+    .sil_tech h2 img {
+        width: 80px;
+        height: auto
+    }
+    .sil_tech p {
+        font-size: 14px
+    }
+    .skills img {
+        margin: 0 26px 23px 0
+    }
+    h1 {
+        font-size: 30px;
+        margin-top: 0
+    }
+    .carousel-caption p {
+        line-height: 17px
+    }
+    .slide_bttn.left,
+    .slide_bttn.right {
+        width: 35px;
+        height: 55px;
+        padding: 14px 0
+    }
+    .team_container {
+        width: 970px
+    }
+    .colum {
+        width: 25%
+    }
+    .map iframe {
+        height: 241px
+    }
+    .bg-gray {min-height: 690px;}
+/*    .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 1140px;
+    max-width: 100%;
+}*/
+
+}
+
+@media only screen and (max-width:1152) {
+    .competencies-wrap .service-style-1 {height: 305px;}
+    .technology-expertise .dv {width: 13%;}
+    .pricing .card-body {padding: 25px 27px;min-height: 623px;}
+    .owl-carousel.slovenia-testimonial .owl-next {top: 40%;}
+     
+}
+
+@media only screen and (max-width:1197px) {    
+    .navbar-nav .open .dropdown-menu {
+        position: static;
+        float: none;
+        width: auto;
+        margin-top: 0;
+        background-color: transparent;
+        border: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none
+    }
+    .navbar-nav .open .dropdown-menu>li>a {
+        line-height: 20px
+    }
+    .navbar-nav .open .dropdown-menu .dropdown-header,
+    .navbar-nav .open .dropdown-menu>li>a {
+        padding: 5px 15px 5px 25px
+    }
+    .dropdown-menu>li>a {
+        display: block;
+        padding: 3px 20px;
+        clear: both;
+        font-weight: 400;
+        line-height: 1.42857143;
+        color: #333;
+        white-space: nowrap
+    }
+    .navbar-header {
+        float: none
+    }
+    .navbar-toggle {
+        display: block
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+        width: 100%
+    }
+    .navbar-collapse.collapse {
+        display: none!important
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 0
+    }
+    .navbar-nav>li {
+        float: none
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0
+    }
+    .navbar-collapse.collapse.in {
+        display: block!important;
+        width: 100%
+    }
+    .collapsing {
+        overflow: hidden!important
+    }
+    .header_fix {
+        position: static
+    }
+    body {
+        padding: 0
+    }
+    .nav_part .navbar-default .navbar-nav li a {
+        border-bottom: 1px solid #ccc;
+        padding: 10px;
+        background: #f5f5f5
+    }
+    .nav_part .navbar-default .navbar-nav>.active>a,
+    .nav_part .navbar-default .navbar-nav>.open>a {
+        background: #f5f5f5
+    }
+    .nav_part .navbar-default .navbar-nav li .dropdown-menu li a {
+        background: #e7e7e7
+    }
+    .nav_part li.dropdown:hover ul.dropdown-menu {
+        display: none
+    }
+    .nav_part .navbar-nav .open:hover .dropdown-menu {
+        display: block
+    }
+    .nav_part .navbar-nav .open .dropdown-menu {
+        padding-top: 0
+    }
+    .sweden-header .header_caption h1 {font-size: 1.5rem;}
+    .sweden-header .header_caption h2 {font-size: 3rem;}
+    .section_content h3 {font-size: 28px;line-height: 40px;}
+    .section_title h1, .section_title h2 {font-size: 45px;line-height: 64px;}
+    .section_title span {font-size: 45px;}
+}
+
+@media only screen and (min-device-width:1020px) and (max-device-width :1199px){.section-head h2{font-size:22px}body{font-size:13px}.speech-bubble-1,.speech-bubble-2,.speech-bubble-3,.speech-bubble-4,.speech-bubble-5,.speech-bubble-6,.speech-bubble-7{height:210px}}
+
+@media only screen and (max-width:1024px) {
+    .feature-box-04 .feature-box-inner{height: auto;}
+    .feature-box{height: 275px;}
+    .slide_bttn.left,
+    .slide_bttn.right {
+        width: 35px;
+        height: 55px;
+        padding: 12px 0
+    }
+    .bg-slider {
+        height: 440px
+    }
+    h5 {
+        font-size: 19px
+    }
+    .section_title h1,
+    .section_title h2, {
+        font-size: 46px;
+        line-height: 59px
+    }
+    .section_content h3 {
+        font-size: 27px
+    }
+    .landingPage_caption h1 {
+        font-size: 26px;
+        line-height: 52px
+    }
+    .bg-gray {
+        min-height: 728px
+    }
+    .divider h3 {
+        font-size: 26px!important
+    }
+    .section_title2 h1,
+    .section_title2 h4 {
+        font-size: 35px;
+        line-height: 68px
+    }
+    .section_title2 span {
+        font-size: 39px
+    }
+    .bg-lighhtgray {
+        min-height: 209px
+    }
+    .landingPage_caption2 {
+        top: 2%
+    }
+    .map iframe {
+        margin-top: 5%
+    }
+    .carousel-caption {
+        top: 0
+    }
+    .carousel-caption h1,
+    .hmbannerheading
+     {
+        font-size: 13px;
+        margin-top: 62px
+    }
+    .carousel-caption p {
+        font-size: 11px
+    }
+    .caption-left {
+        right: 485px
+    }
+    .caption-right {
+        left: 474px
+    }
+    .tabs .nav-tabs>li>a {
+        font-size: 15px
+    }
+    .skills img {
+        margin: 0
+    }
+    .title-wrap2 {
+        margin-left: 35%
+    }
+    div.how-assisted-plans-work .plan-steps,
+    div.outsourcing-digital-soln .plan-steps
+     {
+        width: 90%
+    }
+    .titile span {
+        font-size: 25px
+    }
+    .header_caption h1, .header_caption .simh1
+    {
+        line-height: normal;
+        margin-top: 10px;
+        font-size: 3rem;
+    }
+    .header_caption p
+    {
+        margin-top: 0;
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+    .newsminhgt {min-height: 385px;}
+    .dms-featureswrap{min-height: 280px;}
+    .hm-servicewrap{min-height: 390px;}
+    .carouselh1heading{font-size: 13px;margin-top: 62px;}
+    .industries-wrap{padding: 10px 8px;}
+    .wt-right-part {
+        width: 520px;
+    }
+    .thankswrap h1{font-size: 28px;}
+    .hireheaderwrap {height: 550px;}
+    .hireheaderwrap .carousel-caption 
+    {
+    width: 95%;
+    margin-top: 3em;
+    top: 0;
+    }
+    .welcome_text_area h1{font-size: 48px; margin-top: 0;}
+    .welcome_text_area1 h1{font-size: 48px; margin-top: 0;}
+    .welcome_text_area {margin-top: 10%;}
+    .form-join{padding: 15px;}
+    /*.content-box-info h3:after{left:70px;}*/
+    .pricing .card-body {
+        min-height: 623px;
+        padding: 25px 27px;
+    }
+    .competencies-wrap .service-style-1 {
+        height: 325px;
+        padding: 15px;
+    }
+    .technology-expertise .dv {
+        width: 23%;
+    }    
+    .technology-expertise .tx {
+        padding: 0 0px;
+    }
+    .technology-expertise .tx:after {right: -2%;}    
+    .technology-expertise .why-choose-details li:nth-child(4) .tx:after {display:none;}
+    .relible_hdr .welcome_text_area .p_txt{ font-size:14px;}
+    /*outsource new page css SK*/
+    /*.whychoose-sec .col-lg-5 {-webkit-box-flex: 0;-webkit-flex: 0 0 41.666667%;-ms-flex: 0 0 41.666667%;flex: 0 0 41.666667%;max-width: 41.666667%;}
+*/  .whychoose-sec .pixle-logo{ width:300px; height: 300px; }
+    .stages_outsrc .panel-title a { font-size: 14px; }
+    .stages_outsrc .btn-circle.btn-sm{ margin-right: 10px; }
+    .technical-sec .tabing-sec li {width:22%;}
+    /*outsource new page css SK*/
+    /*cryptocurrency Page css start sk*/
+    .crypt_srvc .col-md-5.imgwpr{ margin-left: 15px;padding-left:0px; padding-right: 15px;  }
+    /*cryptocurrency Page css end sk*/
+    /*cryptocurrency Page css start banner*/
+    .crypt_curncywp1{
+        background: url(../Software-Companies-Mumbai-India-Images/crypto_bg.jpg); background-position-x: 0%;background-position-y: 0%;background-repeat: repeat;
+        background-size: auto;background-size: cover;background-repeat: no-repeat;background-position: center;height: 540px!important; 
+    }
+    /*cryptocurrency Page css end banner*/
+    /* contact page css start */
+    .cboxn1 {
+        border: 1px solid #e0e0e0;
+        height: 562px;
+    }
+    .cboxn {
+         border: 1px solid #e0e0e0;
+        height: 562px;
+        background-color: #143358;
+    }
+    /* contact page css end */
+    /* about us page css start */
+    .aboutp1 {font-size: 20px;}
+    /* about us page css end */
+    /* case study css start */
+    .col1wd{width: 11%}
+    .col2rdsection{width: 37%;}
+    .clients-area12 img 
+    {
+        border: none;
+        height: 288px;
+    }
+    /* case study css end */
+    /* case-study-export-shipping-documentation-&-b2b-e-Commerce-application start*/
+    .csh43 
+    {
+        color: white;
+        font-size: 40px;
+        font-family: 'Mulish', sans-serif;
+        margin: 0;
+        line-height: 49px;
+    }
+    /* case-study-export-shipping-documentation-&-b2b-e-Commerce-application end*/
+    /* case study */
+    .cscontfluidbg12 {
+    background-image: url(../Software-Companies-Mumbai-India-Images/csbg.html);
+    height: 650px;
+    }
+    /* case study end */
+    /* service pg css start */
+    .serul12 {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 0 2rem;
+        list-style-type: none;
+        padding-left: 126px;
+    }
+    /* service pg css end */
+    /* food app css start*/ 
+    .paddingfoodleft{   
+        padding-left:0px;   
+    }   
+    .ncaseimg { 
+        margin-left: 0px;   
+    }   
+    .lappitxtnfd1 { 
+        padding-left: 0px;     
+    }   
+    /*food app css end */
+    /* service page */  
+    .serpgh1 {  
+        padding-top: 70px;
+        font-size: 50px;  
+    }   
+    .inbp { 
+    padding-left: 25px; 
+    padding-right: 25px;    
+    }   
+/* service page css end */
+    .form-join .g-recaptcha{
+        transform:scale(0.90);
+        -webkit-transform:scale(0.90);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+    .contact-caption .g-recaptcha{
+        transform:scale(0.77);
+        -webkit-transform:scale(0.77);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+    .consultancy-form .g-recaptcha{
+        transform:scale(0.95);
+        -webkit-transform:scale(0.95);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+    /* hire react js css start */
+
+    .tcli {
+    width: 21%!important;
+    text-align: left!important;
+    }
+    .hrjpdbtm{
+        padding-bottom: 10px;
+    }
+    .serpgbannermeta
+{
+    background-image: url('../Software-Companies-Mumbai-India-Images/serpgbanner.html');
+    height: 700px!important;
+}
+    /* hire react js css end */
+}
+/*********** tablet landscape ***********/
+@media only screen and (min-width:768px) and (max-width:991px){.sweden-header .header_caption h1{font-size:1.5rem}.sweden-header .header_caption h2{font-size:2.5rem;margin-top:5px}.carousel-caption{width:98%}.bg-gray{min-height:1040px}.slovenia-industries-left-column.nordic-industries-left-column{margin-right:0;padding:10px 52px 20px 52px}.why-choose-details .dv{width:33.33%}.why-choose-details .tx:after{content:'';position:absolute;background-color:#d9d9d9;top:8px;right:-8%;width:1px;height:105px}.why-choose-details .tx:before{content:'';position:absolute;background-color:#d9d9d9;bottom:0;width:146px;height:1px;left:50%;margin-left:-85px;width:170px}.technology-expertise .why-choose-details .dv{position:relative;float:none;padding:0 10px;width:32%}.technology-expertise .why-choose-details li:nth-child(3) .tx:after{display:none}.technology-expertise .why-choose-details li:nth-child(6) .tx:before{display:none}.core-capabilities .service-style-1{height:auto;padding:15px}.pricing .card-body{min-height:465px}}
+
+@media only screen and (max-width:991px) { 
+    #overlay-index .modal-body {text-align: center}
+    .leftcont, .leftimg {width: 100%}
+    .cbox .col-md-4,
+    .leftimg {
+        text-align: center
+    }
+    .tabs {
+        padding-top: 20px
+    }
+    .tabs .panel-default>.panel-heading {
+        padding: 0
+    }
+    .tabs h4.panel-title a {
+        padding: 10px 15px;
+        display: block
+    }
+    .tabs h4.panel-title a br {
+        display: none
+    }
+    .tabs h4.panel-title a:focus,
+    .tabs h4.panel-title a:hover {
+        text-decoration: none
+    }
+    .leftimg {
+        margin-bottom: 10px
+    }
+    .skills img {
+        margin: 0 14px 20px 0
+    }
+    .paddng_r {
+        margin-top: 20px
+    }
+    .sil_tech .text-center img {
+        width: 70%
+    }
+    .sil_tech .red {
+        display: block
+    }
+    h4 {
+        font-size: 35px
+    }
+    h4 span {
+        font-size: 25px;
+        line-height: 28px
+    }
+    .outsource img {
+        width: 100%;
+        height: auto
+    }
+    .web_techno .col-md-3 {
+        margin-bottom: 60px
+    }
+    .cbox .col-md-4 img {
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+    .team_container {
+        width: 100%
+    }
+    .colum {
+        width: 33.3%
+    }
+    .threepic {
+        width: 100%
+    }
+    .leftimg img {
+        width: 120px
+    }
+    .header_fix .navbar-header a.pull-left img {
+        width: 120px;
+        padding-top: 5px
+    }
+    /*.banner_slide {margin-top: 7%;}*/
+    .header_caption h1, .header_caption .simh1{margin-top: 0;margin-bottom: 0;font-size: 2.2rem;}
+    .newsminhgt {min-height: unset;}
+    .hm-servicewrap {min-height: 350px;}
+    .hmindustrycontainer {background: #efefef url(../Software-Companies-Mumbai-India-Images/hm-industry-bg.jpg) no-repeat center bottom;}
+    .industries-wrap h4 { font-size: 15px;}
+    .industries-wrap p{line-height: 16px;font-size: 12px;}
+    .hmbanner{margin-top: 7%;}
+    .hmmaincontent {padding: 30px 0;}
+    .main-timeline .timeline{
+        padding: 40px 60px;
+        margin: 0 0 0 35px;
+    }
+    .main-timeline .timeline:nth-child(2n){
+        margin: 0 35px 0 0;
+    }
+    .main-timeline .timeline-content{
+        width: 100%;
+    }
+    .notfound-404 
+    {
+        height: 85px;
+        margin-bottom: 0;
+    }
+    .notfound-404 h1
+    {
+        font-size: 150px;
+        margin: 0;
+    }
+    .speech-bubble-left-margin {margin-left: 0;}
+    .wt-title-subline { text-align: center;}
+    .speech-bubble-1, .speech-bubble-2, .speech-bubble-3, .speech-bubble-4, 
+    .speech-bubble-5, .speech-bubble-6, .speech-bubble-7
+    {height: auto;}
+    .Benefitshirindev .service-style-1 
+    {
+        min-height: auto;
+        padding: 15px 20px;
+        height: auto;
+    }
+    .content-box1.big1{min-height: 305px;}
+    .why-choose-details{padding: 0;}
+    .deskviewli{display: none !important;}
+    .mobiviewli{display: block !important;}
+    /*Outsource new page css SK*/
+    .whychoose-sec > ul > li {min-height: 80px;}
+    .notshow-sec {display: none;}
+     /*Outsource new page css End SK*/
+    .conbanner{padding-top:164px!important}
+    .oglsection{padding-top:850px}
+    .bigtxt{text-align:left;margin-left:15px;font-size:62px;padding-top: 141px;line-height: 83px;}
+    .cox12 h5{margin-left:5px!important}
+    /*.cboxn{border:1px solid #e0e0e0;background-color:#143358;padding-top:20px}*/
+    .cboxn{border:1px solid #2c2f3c;background-color:#2c2f3c;padding-top:20px}
+    .pcontct{text-align:left}
+    .anordic{font-size:12px!important}
+    .cboxnew{height: auto}
+    .cboxn1{height:auto}
+    .cbox{height: auto;}
+     label.lbl1 
+    {
+        text-align: left !important;
+        float: left;
+    }
+    /* about us page css start */
+    .col20 
+    {
+        width: 100%;
+        background-color: #333c4e;
+        height: auto;
+    }
+    .col80 
+    {
+        width: 100%;
+        background-color: #b10000;
+        height: auto;
+    }
+    .sweden-header .header_caption1 h2 
+    {
+        font-size: 70px;
+        color: #fff;
+        font-weight: 400;
+        margin-top: 56px;
+        margin-bottom: 10px;
+    }
+    .aboutp1 {
+        font-size: 17px;
+        text-align: center;
+    }
+    .header_caption2 
+    {
+        font-size: 33px;
+        color: #fff;
+        font-weight: 400;
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    .mbpview{font-style: 12px;}
+    .abcont 
+    {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    /* about us page css end */
+    /* case study css start*/
+    .cscontfluidbg {height: 833px;}
+    .ptextcs{padding: 0;}
+    .line123 
+    {
+        display: inline-block;
+        width: 699px;
+        margin-left: 0px; 
+    }
+    .csh4
+    {
+        padding-left: 25px;
+         padding-top: 50px;
+    }
+    .mobimg
+    {
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+    .carousel-caption1{margin-left: 25px;}
+    .carousel-caption3{margin-left: 25px;}
+    .line12 {margin-left: 25px;}
+    .col501
+    {
+        width:100%;
+        background-color:#333c4e;
+        height: auto;
+    }
+    .col201
+    {
+        width:100%;
+        background-color:#333c4e;
+        height: auto;
+        padding-left: 60px;
+        padding-top: 30px;
+
+    }
+    .col{float:left;}
+    .sqcspng 
+    {
+        height: 30px;
+        margin-left: 2px; 
+    }
+
+    .cnfdblck{background-color:#333c4e;}
+    .prjrslh1{color: white;}
+    .line12345 
+    {
+        display: inline-block;
+        width: 100px;
+        height: 1px;
+        background-color: white;
+        margin-left: 99px;
+    }
+    .mobimg 
+    {
+        margin-left: -10px;
+        margin-top: 96px!important;
+    }
+    /* case study css end */
+    /* cryptocurrency & erc20 css start*/
+    .procedure-wrap ul li .imgs-l2 {
+        position: relative;
+        display: block;
+        margin: -18px -114px 0 0px;
+    }
+    .procedure-wrap ul li .imgs-l1 {
+        position: relative;
+        display: block;
+        margin: -18px 0 0 -114px;
+    }
+    /* cryptocurrency & erc20 css start css end */
+    /*case-study-cloud-solution-for-brand-building-&-boosting-sales start */
+    .cscontfluidbg1 {
+        height: 890px;
+    }
+    /* case-study-cloud-solution-for-brand-building-&-boosting-sales end*/
+    /* case study css start */
+    .cscontfluidbg123 {
+        height: 884px;
+    }
+    .ficon131 {
+        height: 30px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+     /* case study css end */
+    /*Case study slider css start*/ 
+    .ourcase-sec .caseRow { padding: 40px 50px; min-height: 750px;}
+    /*Case study slider css End*/
+    /* new case study css start */
+    .colwidth {width: 33%!important;}
+    .colmrg {margin-left: 4px;}
+    .ncaseimg {margin-left: 3px;}
+    .lappitxt {text-align: left;}
+    .lappitxt1 {padding-left: 0px;}
+    .containecsr {width: 491px;}
+    .col50151 {background-color: transparent;}
+    /* new case study css end */
+    /* case study css start */  
+    .casebox {flex: 0 0 49.5%;}   
+    /* case study css end */
+    /* ser ai-mi css start */
+    .serul {padding-left:0px!important;}   
+    /* ser ai-mi css end*/
+    /* food app css start */    
+    .mobimg12 { 
+    margin-top: 50px;   
+    height: 335px;  
+    }   
+    .mobimg12 { 
+    margin-top: 60px;   
+    height: 335px;  
+    }   
+    .line12 {   
+         margin-left: 80px;     
+    }   
+    /* food aap css end*/
+    .inner_banner1{height: auto;}
+    /* industry page css start */
+    .serpgbanner {
+    background-image: url(../Software-Companies-Mumbai-India-Images/serpgbanner.html);
+    height: auto;
+    }
+    /* industry page css end*/
+    /* hire dev css start*/ 
+    .service-boxes4 span {  
+    width: auto;   
+    border-radius: 100%;    
+    margin: 0 0 35px;   
+    height: 0px;    
+    display: block; 
+    } 
+/*eth css start */
+    .crypt_curncywp12{
+    background-image: url(../Software-Companies-Mumbai-India-Images/serpgbanner.html);
+    height: 610px;
+    }
+/* eth css end*/   
+   .crypt_curncywp12{
+    background-image: url(../Software-Companies-Mumbai-India-Images/serpgbanner.html);
+    height: 610px;
+    }
+
+    /* eth css end*/
+
+    /* service page tab css start */
+    .techno-framework ul li {
+    flex-basis: 7%;
+    margin: 0 6rem 0 0;
+    padding-top: 30px;
+    }
+    .serul12 {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 0 2rem;
+        list-style-type: none;
+        padding-left: 13px;
+    }
+    .tablinkn {
+        background-color: #555;
+        color: white;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        font-size: 17px;
+        width: 25%;
+        height: 70px;
+    }
+/* api page css start */
+.api-call-to-action{
+    background-color: #303031;
+    height: auto;
+    background-image: url('../Software-Companies-Mumbai-India-Images/api-bg-1.html');
+    border-radius: 13px;
+}
+    /* api page css end */
+/* service page tab css end */
+    .libd{width: 238px;}   
+    .serpgbanner3 {height: 626px!important;}
+    .form-join .g-recaptcha{
+        transform:scale(0.65);
+        -webkit-transform:scale(0.65);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+    .contact-caption .g-recaptcha{
+        transform:scale(1.0);
+        -webkit-transform:scale(1.0);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+}
+
+@media only screen and (max-width:910px) {    
+    .social-list {
+        width: auto!important;
+        display: inline-block!important;
+        margin: 5px
+    }
+    .wsmenucontainer.wsoffcanvasopener {margin-left: 300px}
+    .wsoffcanvasopener .animated-arrow {left: 300px}
+    .wsmenu-list>.menu-arrow-1>a:after {display: none}
+}
+
+@media only screen and (max-width:767px) {    
+    #overlay-index {padding-top: 25px}
+    .owl-prev {left: 1%}
+    .owl-next {right: 1%}
+    .footer_main {width: 100%}
+    .skills 
+    {
+        width: 600px;
+        margin: 0 auto
+    }
+    .skills img {margin: 1.5%}
+    .top_patch {display: none}
+    .web_techno .col-md-3 {min-height: 100px}
+    .web_techno1 .col-md-3 {min-height: 200px}
+    .team_container {width: 620px}
+    .colum {width: 50%}
+    .team_container .col-md-3 {
+        width: 50%;
+        float: left
+    }
+    .threepic .colum 
+    {
+        width: 50%;
+        margin-bottom: 60px
+    }
+    .bg-slider {height: 329px}
+    .cbox, .img {text-align: center}
+    .section_title {margin-left: 0}
+    .section_title h1,
+    .section_title h2 
+    {
+        font-size: 51px;
+        line-height: 66px
+    }
+    .section_title span {font-size: 58px}
+    .section_title hr {margin-left: 9%}
+    .landingPage_caption h1 
+    {
+        font-size: 21px;
+        line-height: 42px
+    }
+    .section_content h3 {
+        font-size: 32px;
+        line-height: 45px
+    }
+    .section_title2 h1, .section_title2 h4 {line-height: 52px}
+    .landing_locations {bottom: 74px}
+    .landingPage_caption2 h1 {margin-top: 19px}
+    .landing_locations h4 {font-size: 19px}
+    .landing_heading {margin-top: 29%}
+    .caption-left {right: 354px}
+    .caption-right {left: 337px}
+    .social-list 
+    {
+        width: auto!important;
+        display: inline-block!important;
+        margin: 5px
+    }
+    .wsmenucontainer.wsoffcanvasopener {margin-left: 244px}
+    .wsoffcanvasopener .animated-arrow {left: 247px}
+    .service-style-1 
+    {
+        clear: both;
+        padding: 10px 0
+    }
+    /*.banner_slide {margin-top: 8.5%;}*/
+    .hm-servicewrap {min-height: auto;}
+    .carousel-caption{display: block;}
+    .hmmaincontent{padding: 30px 0;}
+    .hmmaincontent p{font-size: 16px;line-height: 30px;}
+    .serviceicon-wrap{margin-left: 10px;}
+    .wt-right-part{width: auto;}
+    .section-head h2{text-align: center;}
+    .welcome_text_area h1{font-size: 32px;}
+    .content-box.big, .content-box1.big1, .content-box.small{min-height: auto;}
+    .content-box-info h3:after, .content-box-info1 h3:after{left:40%;}
+    .divider h3 {font-size: 20px!important;line-height: 30px;}
+    .footer_box .text-center-imp {text-align: left !important;}
+    .feature-box {height: auto;}
+    /*Outsource new page css SK*/
+    .stages_outsrc{ margin-top:40px;margin-bottom:20px; }
+    .stages_outsrc .panel-title { color: #000;  }
+    .stages_outsrc .panel-title a{ font-size: 12px; }
+    .relible_hdr .welcome_text_area  h1{ font-size: 20px; }
+    .relible_hdr .welcome_text_area  p { font-size: 14px; text-align: justify;}
+    .wrimagecard-topimage_title p { font-size: 14px; }
+    .whychoose-sec li {margin: 0 0 20px;}
+    .whychoose-sec .icon,.whychoose-sec .iconR,.whychoose-sec span,.whychoose-sec h3 {float: none;display: block; margin: 0 auto 20px;}
+    .whychoose-sec .textsec,.whychoose-sec .textsecR,.whychoose-sec h3 {width: 100%;float: none;text-align: center;}
+    .technical-sec .tabing-sec li {width: 30%;}
+     .technical-sec .heading-section p { text-align: justify;padding: 0 15px; }
+    .services-offer .title h2{ margin-top:10px; }
+    .technical-sec  .heading-section h2{ margin-top:10px; }
+    /*Outsource new page css end SK*/
+    .welcome_text_area h5{font-size: 1.5rem;}
+    .procedure-wrap ul li .contents-l, .procedure-wrap ul li .contents-r,
+    .procedure-wrap ul li .imgs-l, .procedure-wrap ul li .imgs-r
+    {
+        margin: 0;
+    }
+    .procedure-wrap ul:after, .procedure-wrap ul li:before,
+    .procedure-wrap ul li:after, .procedure-wrap ul li.rl:before,
+    .procedure-wrap ul li.rl:after
+    {
+        display: none;
+    }
+    .procedure-wrap ul li .contents-l, .procedure-wrap ul li .contents-r,
+    .procedure-wrap ul li .imgs-l, .procedure-wrap ul li .imgs-r,
+    .procedure-wrap ul li .contents-l h3, .procedure-wrap ul li .contents-r h3,
+    .procedure-wrap ul li .contents-l p, .procedure-wrap ul li .contents-r p
+    {
+        text-align: left;
+        float: left;
+        width:100% !important;
+        display: block !important;
+    }
+    .floatright{width: 100%;}
+    .relible_hdr .welcome_text_area{margin-top: 25px;}
+    .welcome_text_area h5{margin-bottom: 1rem;}
+    .hireheaderwrap {height: 575px;}
+    .CICDOutWp .hireheaderwrap,  .agileOutWp .hireheaderwrap {height: 400px;}
+    .CICDOutWp .relible_hdr .welcome_text_area.headTxtWp, .agileOutWp .relible_hdr .welcome_text_area.headTxtWp {margin-top: 50px;}
+    .cicdbluewhite-content .section_title, .agilebluewhite-content .section_title, .msbluewhite-content .section_title {margin-top: 20px;margin-bottom: 30px;}
+    .cicdbluewhite-content .section_content, .agilebluewhite-content .section_content{margin-top: 28%}
+    .msbluewhite-content .section_content{margin-top: 22%}
+    .hireheaderwrap .carousel-caption{margin-top: 5em;}
+    .oglsection {padding-top: 875px;}
+    /*cryptocurrency Page css start banner*/
+    .crypt_curncywp1
+    {
+        background: url(../Software-Companies-Mumbai-India-Images/crypto_bg.jpg); background-position-x: 0%;background-position-y: 0%;background-repeat: repeat;
+        background-size: auto;background-size: cover;background-repeat: no-repeat;background-position: center;height: 700px!important; 
+    }
+    /*cryptocurrency Page css end banner*/
+    /* about us page css start */
+    .sweden-header .header_caption1 h2 
+    {
+        font-size: 40px;
+        color: #fff;
+        font-weight: 400;
+        margin-top: -10px;
+        margin-bottom: 10px;
+    }
+    .mbpview{font-size: 18px;}
+    /* about us page css end */
+    /* case study css start*/
+    .cscontfluidbg {height: auto;}
+    .mobimg
+    {
+        margin-left: -10px;
+        margin-top: 80px;
+    }
+    .csh4{font-size: 53px;}
+    .col201{padding-left: 25px;}
+    .sqcspng 
+    {
+        height: 30px;
+        margin-left: 2px; 
+    }
+    .col1wd {width: 18%;}
+    /* case study css end*/
+
+    /* cryptocurrency & erc20 css start*/
+    .procedure-wrap ul li .imgs-l2 {
+        position: relative;
+        display: block;
+        margin: -18px 0px 0 0px;
+    }
+    .procedure-wrap ul li .imgs-l1 {
+        position: relative;
+        display: block;
+        margin: -18px 0 0 0px;
+    }
+    /* cryptocurrency & erc20 css start css end */
+
+    /* case-study-cloud-solution-for-brand-building-&-boosting-sales start*/
+    .csh41 {
+        color: white;
+        font-size: 40px;
+        font-family: 'Mulish', sans-serif;
+        margin: 0;
+        line-height: 49px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .csh5 {
+        color: white;
+        font-size: 37px;
+        font-family: 'Mulish', sans-serif;
+        margin: 0;
+        line-height: 49px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    /* case-study-cloud-solution-for-brand-building-&-boosting-sales end*/
+
+    /* case-study-online-apartment-letting-renting-software start */
+    .carousel-caption31 {
+        text-align: left;
+        font-weight: 300px;
+        color: white!important;
+        padding-right: 32px;
+        padding-top: 10px;
+        margin-left: 25px;
+    }
+    .carousel-caption312 {
+        text-align: left;
+        font-weight: 300px;
+        color: white!important;
+        padding-right: 10px;
+        padding-top: 10px;
+        margin-left: 25px;
+    }
+    /* case-study-online-apartment-letting-renting-software end */
+
+    /* case study css start */
+    .cscontfluidbg1234 {
+        height: 1090px;
+    }
+    .col20212 {
+        background-color: #333c4e;
+        height: auto;
+         padding-left: 20px; 
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+    .cscontfluidbg147 {
+        height: 997px;
+    }
+    .csh58 {
+        color: white;
+        font-size: 32px;
+        font-family: 'Mulish', sans-serif;
+        margin: 0;
+        line-height: 49px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    /* case study css end*/
+    /*Case study slider css start*/
+    .ourcase-sec .caseRow .caseimgbox { margin:40px auto 20px; flex:initial!important; width:100%; text-align: center;}
+    .ourcase-sec .caseRow .contentbox {padding: 0;flex:initial!important; width:100%;text-align: center; width:100%;}
+    .ourcase-sec .caseRow .contentbox h2{ text-align: center!important;  font-size:22px!important;}
+    /*Case study slider css End*/
+    .form-join .g-recaptcha{
+        transform:scale(0.85);
+        -webkit-transform:scale(0.85);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+}
+/*One Plus portrait css*/
+@media only screen and (max-width:640px) {    
+    .nav_part .container {
+        padding: 0
+    }
+    .owl-prev {
+        left: -1%
+    }
+    .owl-next {
+        right: -1%
+    }
+    .sil_tech,
+    .tabs {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    .sil_tech .col-md-5,
+    .sil_tech .col-md-7 {
+        padding-left: 0;
+        padding-right: 0
+    }
+}
+
+@media only screen and (max-width:639px) {
+    .footer_main .col-md-4 {
+        width: 100%;
+        padding: 10px;
+        border-bottom: 1px solid #ccc
+    }
+    .footer_main .col-md-offset-2 {
+        margin-left: 0
+    }
+    .footer_main .col-md-4.lastf {
+        border-bottom: 0
+    }
+    .adver {
+        width: 100%
+    }
+    .copy {
+        line-height: 18px;
+        padding: 10px
+    }
+    .skills {
+        width: 450px
+    }
+    .skills img {
+        margin: 2%
+    }
+    h4 {
+        font-size: 25px;
+        line-height: 32px
+    }
+    h4 span {
+        font-size: 20px;
+        line-height: 24px
+    }
+    /*.titile {
+        width: 78%
+    }*/
+    .colum,
+    .team_container {
+        width: 100%
+    }
+    .team_container .col-md-3 {
+        width: 100%;
+        float: none;
+        margin-bottom: 60px
+    }
+    .threepic .colum,
+    .twopic .colum {
+        width: 100%;
+        margin-bottom: 60px
+    }
+    .twopic {
+        width: 100%
+    }
+    .inner-div {
+        max-width: 250px
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .nav_part {
+        padding: 8px 5px
+    }
+    .sil_tech .text-center img {
+        width: 100%
+    }
+    h2 {
+        font-size: 20px
+    }
+    .navbar-header .pull-left {
+        margin-left: 10px
+    }
+    h4 {
+        font-size: 22px
+    }
+    h4 span {
+        font-size: 16px;
+        line-height: 20px
+    }
+    /*.titile {
+        width: 77%
+    }*/
+}
+
+@media only screen and (max-width:479px) {
+    #overlay-index button.close {
+        top: -15px
+    }
+    #overlay-index {
+        padding-top: 15px
+    }
+    .skills {
+        width: 300px
+    }
+    .skills img {
+        margin: 3.5%
+    }
+    .sil_tech h2 img {
+        width: 60px
+    }
+    /*.titile {
+        width: 73%
+    }*/
+    .features {
+        margin-bottom: 20px;
+        float: left;
+        padding: 0
+    }
+    .features .col-md-2 {
+        text-align: left;
+        width: 100%;
+        margin-bottom: 10px
+    }
+    .features .col-md-2 img {
+        width: 90px;
+        height: auto
+    }
+    .features .col-md-10 {
+        width: 100%;
+        padding: 0
+    }
+    .image-wrap {
+        width: 100%;
+        background: #efebe9;
+        border-color: #efebe9;
+        margin-bottom: 10px
+    }
+    .img_title-wrap {
+        padding: 0;
+        text-align: center
+    }
+    .blog-img,
+    .blog-cont {
+        width: 100%;
+    }
+    .blog-img {
+        padding-right: 0;
+    }
+    .banner_slide {margin-top: 12%;}
+    .header_caption {padding: 0;}
+    .header_caption h1, .header_caption .simh1{font-size: 22px; line-height: normal;}
+    .header_caption p {display: block !important;}
+    .technology-matrixwrap .col-md-3.col-xs-6 {width: 100%;}
+    .hmmaincontent {padding: 60px 0 30px;}
+/*  .slide_bttn.left, .slide_bttn.right 
+    {
+        width: 20px;
+        height: 45px;
+        padding: 10px 0;
+        top: 25px;
+    }*/
+    .thankscont{padding: 20px;}
+    .thankswrap{padding: 15% 0;}
+    .thankswrap h1 { font-size: 20px;}
+    .thankswrap p {
+    font-size: 14px;
+    line-height: 24px;
+    }
+    .notfound-404 h1 {font-size: 110px;}
+    .banner_slide {margin-top: 80px;}
+    .what-does-hiring-include{text-align: center; padding: 10px 15px;}
+    .what-does-hiring-include figure{position: relative;left:0;right:0;margin:0 auto;}
+    .what-does-hiring-include main::after{right: 0;margin: 0 auto;}
+    .subheading-txt{font-size: 28px;}
+    .titile span {font-size: 24px;}
+    .hireheaderwrap {height: 990px;}
+    .w100pinm{width: 100%;}
+    .header-arrow{top: 0;}
+    .hireheaderwrap.header-arrow .carousel-caption {top: 0;}
+    .content-box-info h3:after, .content-box-info1 h3:after {
+    left: 30%;}
+    .hireheaderwrap .carousel-caption{margin-top: 7em;}
+    /*outsoursing  new page css*/
+    .technical-sec .tabing-sec li {/*width: 70%;*/ margin: 5px 0;}
+    .hmcontbtn, .hmcontbtn-lg{font-size: 14px;}
+    /*outsoursing  new page css end*/ 
+
+    /*cryptocurrency Page css start banner*/
+    .crypt_curncywp1{
+        background: url(../Software-Companies-Mumbai-India-Images/crypto_bg.jpg); background-position-x: 0%;background-position-y: 0%;background-repeat: repeat;
+        background-size: auto;background-size: cover;background-repeat: no-repeat;background-position: center;height: 1000px!important; 
+    }
+    /*cryptocurrency Page css end banner*/
+    /* about us page css start */
+   .header_caption1
+   {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 400;
+    margin-top: -30px;
+    margin-bottom: 0px;
+    }
+    /* about us page css end */
+    /*Case study slider css start*/
+    .ourcase-sec:after { height: 70px;}
+    .ourcase-sec .caseRow {padding: 30px;min-height: 750px;}
+    /*Case study slider css End*/
+    /* new case study css start*/
+    .ncscontfluidbg {height: 688px;}
+    .colwidth {width: 60%!important;}
+    .col20212 {background-color: #eeeeee;}
+    .clients-area12345 img {height: 174px;}
+    .col2021567 
+    {
+        height: auto;
+        padding-left: 0px;
+    }
+    .containecsr {width: 302px;}
+    .ncsh4 
+    {
+        color: #fff;
+        font-size: 45px;
+        font-family: 'Mulish', sans-serif;
+        margin-left: 23px;
+        line-height: 59px;
+        padding-top: 22px;
+    }
+    /*new case study css end*/
+    /* case study css start */  
+    .casebox {flex: 0 0 100.5%;}   
+    .sweden-header1 .header_caption1 h2 
+    {   
+        font-size: 40px;    
+        color: #fff;    
+        font-weight: 400;   
+        margin-top: 40px;   
+        margin-bottom: 10px;    
+    } 
+    .carousel-caption31 {   
+    text-align: left;   
+    font-weight: 300px; 
+    color: white!important; 
+    padding-right: 0px; 
+    padding-top: 10px;  
+    }  
+    /* case study css end */
+    /* food & ser app css start*/
+    .mobimg1
+    {
+        margin-top: 5px; 
+        height: 250px;
+    }
+    .mobimg12
+    {
+        margin-top: 120px; 
+        height: 300px;
+        margin-left: 0px;
+    }
+    .impftu {padding-top: 0px;}
+    .lappitxtnfd1 {padding-left: 0px;}
+    .apfutr {padding-left: 0px;}
+    .containecsr {width: 360px;}
+    .lappyshileft {padding-left: 0px;}
+    .mobimg12fdapp {margin-left: 33px!important;}   
+    .collectionsfdapp {padding-top: 60px!important;}    
+    .ncaseimg {height:350px;margin-left: 50px;} 
+    .ncaseimg1 {height: 300px;margin-top: 49px;margin-left: 0px;}
+    /*food app css end */
+    /* ai-mi & ser css start*/
+    .content-box-info h3:after, .content-box-info1 h3:after {left: 50%;}
+    .serul 
+    {
+        display: -webkit-box;
+        flex-wrap: wrap;
+        margin: 2px 25px 2rem
+        list-style-type: none;
+        padding-left: 50px!important; 
+    }
+    /* ai-mi & ser css end*/
+    /* fintech & ser banner css start */
+    .serpgh1 
+    {
+        font-size: 36px!important;
+        color: #fff;
+        padding-top: 110px!important;
+        text-align: center;
+        padding-bottom: 0px; 
+    }
+    .serpgbanner {height: auto!important;}
+    .serul12 {padding-left: 60px;}
+    .techno-framework ul li 
+    {
+        flex-basis: 30%;
+        margin: 0 4rem 0 0;
+        padding-top: 30px;
+    }
+    /* fintech & ser banner css end */
+    /* crypto css start */
+    .hireheaderwrap1 {height: 1067px;}
+    /* crypto css end */
+    .clienttesti{padding-bottom: 20px;}
+    /* food app css start */    
+    .line12 {margin-left: 10px;}   
+    /* food aap css end*/
+    .collectionsmb {padding-top: 40px;}
+    .colwidthbcpg{width: 47%;}
+    .sericonbag {
+    background-image: url(../Software-Companies-Mumbai-India-Images/graybanner1.html);
+    height: auto;
+    
+    }
+    /*service page css start*/
+    .tablinkn {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 50%;
+    height: 73px;
+    }
+    .inbp {padding-left: 0px; padding-right: 0px;font-size: 16px;}  
+    .serpgh1 {font-size: 45px!important;}
+    /*service page css end*/
+    .form-join .g-recaptcha{
+        transform:scale(1.0);
+        -webkit-transform:scale(1.0);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+    .consultancy-form .g-recaptcha{
+        transform:scale(0.8);
+        -webkit-transform:scale(0.8);
+        transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+    }
+    /* bpo service page css start */    
+    .pbpotxt {  
+    padding-top: 20px;  
+    text-align: center; 
+    }   
+    .pbpotxt1 { 
+    padding-top: 20px;  
+    text-align: center; 
+    }   
+    /* bpo service page css end */
+    /*hire dev css start*/  
+    .contactwrapn { 
+     height:320px; 
+     line-height: 30px; 
+    }   
+    .gradient-bghdd {   
+    background-color: #fff; 
+    height: 1460px; 
+}   
+.digital-solutionhdd ul {   
+    width: 100%;    
+    float: left;    
+    display: block; 
+    list-style-type: none;  
+}   
+section.digital-solutionhdd .icon-wraphdd { 
+    display: block; 
+    float: left;    
+    margin-right: 21px; 
+    width: 20%; 
+    max-width: 58px;    
+    padding-top: 6px;   
+}   
+a.cta-but { 
+    position: relative; 
+    top: 30;    
+    left: -27px!important;  
+    width: 100%;    
+    height: 100%;   
+    z-index: 1; 
+}   
+section.digital-solutionhdd li p {  
+    width: 100%;    
+}   
+.blacksec{  
+    margin-top: 20px;   
+}
+.service-boxes4 span {
+    width: auto;
+}  
+.liclhd{
+    flex-basis: 43%;
+}   
+/*hire dev css start*/
+    /* contact css start */
+ .bigtxt
+{
+    text-align: left;
+    margin-left: 15px;
+    font-size: 40px;
+    padding-top: 140px;
+}
+/* contact css end */
+/* eth page*/   
+.crypt_curncywpnew{ 
+    background: url(../Software-Companies-Mumbai-India-Images/serpgbanner.html);    
+    background-position-x: 0%;  
+    background-position-y: 0%;  
+    background-repeat: repeat;  
+    background-size: auto;  
+    background-size: cover; 
+    background-repeat: no-repeat;   
+    background-position: center;    
+    height: 1250px!important;   
+}   
+.banntxteth{
+    font-size: 40px!important;
+}
+/* eth page css end */
+/* bchain industry css start*/
+    .serpgbanner1{
+    background-image: url('../Software-Companies-Mumbai-India-Images/serpgbanner.html');
+    height: auto;
+    }
+/* bchain industry css end*/
+    .serpgbanner3{height: 1456px!important;}    
+    .libd {width: 326px;}   
+    .hrjtbmbhe{height: 254px;}   
+    .tcli {width: 49%!important;}   
+    .hrjpdrighttbl{margin-right: 146px!important;}   
+    .hrjstechstack{padding-left: 10px;}
+    /* crypto bot css start */  
+    .columncytb{    
+        float: center;  
+        width: 100%;    
+        padding: 5px;   
+    }   
+    .columncytb1{    
+        float: center;  
+        width: 100%;    
+        padding: 5px;   
+    }  
+     /* crypto bot css end */
+
+    /* api page css start */
+
+    .related-services-box {
+    margin-bottom: 67px;
+    }
+    .cmr-app-services .service-alt .app-plate {
+    height: auto;
+    }
+    .all-api-img{
+    min-width: auto;
+    }
+    .cmr-app-services .service-alt .app-plate {
+    flex-wrap: wrap;
+    height: auto;
+    }
+.serpgbannermeta
+{
+    background-image: url('../Software-Companies-Mumbai-India-Images/serpgbanner.html');
+    height: 1200px!important;
+}
+     /* api page css end */
+
+     .dotnetpgsectio{
+    background-color: #e53438;
+    padding-top: 110px;
+}
+.dotneth2 {
+    color: #fff;
+    font-size: 21px!important;
+}
+.dotneth1 {
+    color: #fff;
+    font-size: 25px;
+}
+.netsubtn{padding-top: 18px;padding-left: 0px;}
+.swdbannerimg {
+    height: 423px!important;
+}
+.newqnacard {
+    padding-bottom: 21px;
+}
+.btnviewcasestudy {
+    padding-left: 14px;
+}
+.ourcase-sec .caseRow .contentbox h2 {
+    text-align: left!important;
+}
+.casestudyp{
+    text-align: left!important;
+}
+.tcusedtxt{
+    text-align: left!important;
+}
+.casestudy .carousel-control.right {
+    margin-right: 273px;
+}
+.casestudy .carousel-control.left {
+    margin-left: 56px;
+}
+.ourcase-sec .caseRow {
+    min-height: 825px;
+}
+.carousel {
+     top: 0px; 
+}
+.clientstext {
+    padding-left: 17px;
+}
+.sedcardn{
+    padding-bottom: 30px;
+}
+.btnviewsevice {
+    padding-top: 20px;
+    padding-left: 18px;
+}
+.newmodel {
+    padding-top: 69px;
+}
+.modelbox {
+    width: 95%;
+    left: 0%;
+    top: 9%;
+}
+/* new menu css start*/
+.modelboxli1 {
+    padding-right: 10px!important;
+}
+.navredbtn {
+    padding: 10px 9px !important;   
+}
+.modelboxli1imh {
+    width: 25px;
+    padding-top: 10px;
+}
+/* new menu css end*/
+}
+
+@media only screen and (max-width:425px) {
+    .carousel-caption {
+        left: 0;
+    }
+    .carousel-caption p {
+        display: block
+    }
+    h1 {
+        font-size: 21px;
+        margin-top: 48px
+    }
+    
+    .section_title hr {
+        margin-left: 37%
+    }
+    .bg-gray {
+        min-height: 0
+    }
+    .section_content h3 {
+        line-height: 32px;
+        font-size: 16px;
+        margin-left: 0
+    }
+    .section_title2 hr {
+        margin-left: 9%
+    }
+    .landingPage_caption2 {
+        left: 0;
+        width: 416px
+    }
+    .landing_locations {
+        bottom: 29px
+    }
+    .landing_locations h4 {
+        font-size: 9px;
+        line-height: 25px
+    }
+    .landingPage_caption2 h1 {
+        margin-top: 9px
+    }
+    .landing_heading h3 {
+        font-size: 22px
+    }
+    .image-wrap2 {
+        float: none;
+        text-align: center;
+        width: auto
+    }
+    .title-wrap2 {
+        margin-left: 0
+    }
+    div.how-assisted-plans-work .plan-steps .step .step-text,
+    div.outsourcing-digital-soln .plan-steps .step .step-text {
+        width: 100%;
+        padding-top: 7px
+    }
+    div.how-assisted-plans-work .plan-steps .step:nth-child(odd) .step-text,
+    div.outsourcing-digital-soln .plan-steps .step:nth-child(odd) .step-text {
+        padding-right: 0;
+        margin-left: 0;
+        text-align: center
+    }
+    /*new outsource page css SK*/
+   
+   .stages_outsrc .btn-circle.btn-sm{ width: 20px;height:20px; border-width:1px;border-radius:50%;font-size: 10px;padding: 1px 0;margin-right:5px;margin-left: 0; }
+   #accordion_col .col-xs-12{ padding-left: 0;padding-right: 0; }
+   .stages_outsrc .panel-heading .accordion-toggle::after{ position: absolute;right:6px;  padding: 0;}
+   .stages_outsrc .panel-title > a{ padding: 10px 7px; }
+   /*new outsource page css SK end*/
+}
+
+@media only screen and (max-width:375px) {
+    h1 {
+        font-size: 18px;
+        margin-top: 0;
+        margin-left: 3%
+    }
+    
+    .section_title hr {
+        margin-left: 37%
+    }
+    .landingPage_caption2 {
+        left: 0;
+        width: 376px
+    }
+    .landing_heading h3 {
+        font-size: 19px
+    }
+    .inner_banner {
+        text-align: center
+    }
+    .inner_banner h4 img {
+        float: none
+    }
+    .titile {
+        width: 100%;
+        line-height: 30px
+    }
+    .sweden-header .carousel-caption {
+        top: 14%;
+    }
+    .sweden-header .header_caption h2 {
+        font-size: 2rem;
+        margin-top: 0;
+    }
+    .section_title h1, .section_title h2 {
+        font-size: 40px;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .section_title {
+        margin-top: 0;
+        padding-bottom: 1px;
+    }
+    .section_title span {
+        font-size: 40px;
+    }
+    .section_title hr {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .section_content h3 {
+        font-size: 21px;
+    }
+    .slovenia-industries-left-column.nordic-industries-left-column {
+        margin-right: 0;
+        padding: 10px 15px 15px 15px;
+    }
+    .slovenia-industries-sec-title h2{
+        padding-bottom: 20px;
+        margin-top: 0;
+    }
+    .bg_image p {
+        margin: 0 5% 2%;
+    }
+    .why-choose-details .tx:after {content: '';position: absolute;background-color: #d9d9d9;top: 8px;right: -8%;width: 1px;height: 105px;}
+    .section_title2 {
+        margin-top: 5px;
+        margin-bottom: 0;
+        padding-top: 14px;
+    }
+    .section_title2 h1, .section_title2 h4 {
+        line-height: 43px;
+    }
+    .section_content p {
+        margin-bottom: 10%;
+    }
+    .cloud-angle-area .bg-gray {
+        min-height: 136px;
+    }
+    .section_title2 hr {
+        margin-left: 0;
+    }
+    .bg_image h4 {
+        line-height: 45px;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    .sil_tech h2 img {
+        margin-right: 5px
+    }
+    /*.titile {
+        width: 73%
+    }*/
+    .landingPage_caption2 {
+        left: 36px
+    }
+    .landing_locations h4 {
+        line-height: 17px
+    }
+    .landing_heading h3 {
+        line-height: 30px;
+        font-size: 17px
+    }
+    .carousel-caption {
+        width: 282px
+    }
+    .caption3 {
+        left: 12%
+    }
+    h1 {
+        font-size: 16px
+    }
+    /*outsoursing page sk css*/
+    .stages_outsrc .panel-title a{ font-size: 10px; }
+    /*outsoursing page sk css*/
+}
+
+@media only screen and (max-width:320px) {
+    .copy ul,
+    .inner_banner h4 img,
+    div.how-assisted-plans-work .plan-steps .step .step-icon {
+        float: none
+    }
+    .copy ul,
+    .inner_banner {
+        text-align: center
+    }
+    .section_title h1,
+    .section_title h2,
+    .section_title span {
+        font-size: 38px
+    }
+    .section_title hr {
+        margin-left: 37%
+    }
+    .section_title2 span {
+        font-size: 34px
+    }
+    .landingPage_caption2 h1 {
+        line-height: 23px;
+        font-size: 15px
+    }
+    .landingPage_caption2 {
+        left: 19px
+    }
+    .landing_heading h3 {
+        line-height: 35px;
+        font-size: 16px
+    }
+    h5:after {
+        margin-left: 130px!important
+    }
+    .caption-left,
+    .caption-right {
+        background-color: none!important
+    }
+    .title h2 {
+        font-size: 23px
+    }
+    .copy ul {
+        margin-right: 17px;
+        margin-top: 2%
+    }
+    .footer-social i {
+        left: 0;
+        top: 3px
+    }
+    .titile {
+        width: 100%;
+        line-height: 30px
+    }
+    div.how-assisted-plans-work,
+    div.outsourcing-digital-soln {
+        padding: 0
+    }
+    div.how-assisted-plans-work.owner .first,
+    div.outsourcing-digital-soln.owner .first {
+        background-position: 24px 0;
+        width: 253px!important
+    }
+    div.how-assisted-plans-work .plan-steps .step .divider,
+    div.outsourcing-digital-soln .plan-steps .step .divider
+     {
+        width: 42%
+    }
+    div.how-assisted-plans-work.owner .second,
+    div.outsourcing-digital-soln.owner .second
+     {
+        height: 231px;
+        width: 253px!important
+    }
+    div.how-assisted-plans-work .plan-steps .step:nth-child(even) .step-text,
+    div.outsourcing-digital-soln .plan-steps .step:nth-child(even) .step-text {
+        float: none;
+        padding-left: 0;
+        margin-right: 0;
+        text-align: center
+    }
+    .stages_outsrc .panel-title a{ font-size: 10px; padding-right: 5px;}
+   .stages_outsrc .panel-collapse p{ font-size: 12px; }
+   .stages_outsrc .btn-circle.btn-sm{ margin-right: 0;}
+   .banner_slide {margin-top: 100px;}
+   /*cryptocurrency Page css start banner*/
+    .crypt_curncywp1{
+        background: url(../Software-Companies-Mumbai-India-Images/crypto_bg.jpg); background-position-x: 0%;background-position-y: 0%;background-repeat: repeat;
+        background-size: auto;background-size: cover;background-repeat: no-repeat;background-position: center;height: 1100px!important; 
+    }
+    /*cryptocurrency Page css end banner*/
+    /* contact us page css start */
+    .conbanner {padding-top: 164px!important;}
+    .oglsection{padding-top: 750px;}
+    .bigtxt
+    {
+        text-align: left;
+        margin-left: 15px;
+        font-size: 40px;
+    }
+    .cox12 h5{margin-left: 5px!important;}
+    .cboxn 
+    {
+        border: 1px solid #e0e0e0;
+        background-color: #143358;
+    }
+    .pcontct{text-align: left;}
+    .anordic{font-size: 12px!important;}
+    /* contact us page css end */
+    /* about us page css start */
+    .aboutp1 {font-size: 14px;}
+    /* about us page css end */
+    /* case studu */
+    .carousel-caption3 
+    {
+        text-align: left;
+        font-weight: 300px;
+        color: white!important;
+        padding-right: 0px; 
+        padding-top: 10px;
+    }
+    /* case study */
+    /* hire dev css start */
+    .service-boxes4 span {
+        width: 262px;
+    }
+    /* hire dev css end */
+}
+/*********** mobile landscape and small tablet portrait ***********/
+@media only screen and (min-width:600px) and (max-width:767px){.landingPage_caption2{left:-5%}.landingPage_caption2 h1{margin-top:3px}.landing_locations h4{line-height:1}.landing_heading h3{font-size:30px}.slovenian-market-img{margin-top:0!important}.slovenian-services .Hiring{min-height:250px}.slovenian-services .Hiring summary{min-height:100px}.slovenia-industries-left-column{padding:10px 100px 10px 52px}.slovenia-industries-right-column{padding:23px 0 0 20px}.other-related-service #Industries-we-Serve li{width:calc(28.66667% - 10px)}.slovenia-our-hiring-models .speech-bubble-2{height:500px}section.consultancy-section{margin-top:20px}.why-choose-details .dv{width:33%}.sweden-header .header_caption h2{font-size:2rem;margin-top:0}.sweden-header .header_caption h1{font-size:1.1rem}.section_title h1,.section_title h2{margin:0 0 20px;padding-top:20px}.section_title hr{margin-left:1%}.bg-gray{min-height:140px}.slovenia-industries-left-column.nordic-industries-left-column{margin-right:0;padding:20px 52px 20px 52px}.section_title{margin-top:0}.carousel-caption{width:100%}.section_title span{font-size:45px}.slovenia-industries-sec-title h2{margin-top:0}.cloud-angle-area .bg-gray{min-height:150px}.cloud-angle-area .section_title2{margin-top:0}.technology-expertise .why-choose-details .dv{position:relative;float:none;padding:0 10px;width:32%}.technology-expertise .why-choose-details li:nth-child(3) .tx:after{display:none}.technology-expertise .why-choose-details li:nth-child(6) .tx:before{display:none}.core-capabilities .service-style-1{height:auto;padding:15px}.pricing .card-body{min-height:465px}.conbanner{padding-top:164px!important}.bigtxt{text-align:left;margin-left:15px;font-size:40px}.cox12 h5{margin-left:5px!important}.anordic{font-size:12px!important}}
+/*********** mobile portrait ***********/
+@media only screen and (min-width:300px) and (max-width:479px){.banner_slide .item img{width:100%;height:140px}.carousel-caption{top:22%;width:100%}.carousel-caption h1{margin-left:0;margin-bottom:10px}.carousel{margin-bottom:20px}#intro{display:none}#home-company-about{padding:85px 0 60px 0}.header-arrow .carousel-caption{top:-42%}.da-slide-current .da-img{display:none}.da-slide h2{color:#fff;font-size:30px;width:50%;top:3%;white-space:normal;z-index:10;text-shadow:1px 1px 1px rgba(0,0,0,.1);font-family:'Mulish', sans-serif;font-weight:600;line-height:33px;letter-spacing:0;text-align:left}.dedicated-developers .title h2{margin-top:0}.resource-demand{display:block;margin:0 auto}.effective-cost{margin:20px auto}.kickstart{margin-top:20px}.dedicated-developers .hmindbtn,.intro-section .hmindbtn{margin:0 auto;display:block}.intro-section:before{width:100%}.img-absolute{position:relative;right:0;text-align:center}.img-absolute img{max-width:300px}.why-choose-details .dv{position:relative;float:left;padding:0 10px;width:100%}.why-choose-details{width:100%;padding:0}.why-choose-details .tx{position:relative;width:100%;padding:0;min-height:125px}.why-choose-details .tx:before{content:'';position:absolute;background-color:#d9d9d9;bottom:0;width:146px;height:1px;left:0;margin-left:0;width:100%}.form-signin .cbox{text-align:left}.slovenian-market-img{margin-top:0!important}.slovenia-industries-left-column{padding:10px 15px 10px 15px;margin-right:0}.slovenia-industries-right-column{padding:23px 0 0 20px}.other-related-service #Industries-we-Serve li{width:calc(46.66667% - 10px)}.slovenia-testimonial .testimonial-area{padding:30px 10px}.other-related-service #Industries-we-Serve li{width:calc(86.66667% - 10px)}section.consultancy-section{margin-top:10px}.footer-main .form-group{margin-bottom:30px}.active>div{display:block}.technology-expertise .why-choose-details .dv{position:relative;float:none;padding:0 10px;width:46%}.core-capabilities .service-style-1{height:auto;padding:15px}.pricing .card-body{min-height:520px}.technology-expertise .why-choose-details .tx:after{display:block}.technology-expertise .why-choose-details li:nth-child(2) .tx:after{display:none}.technology-expertise .why-choose-details li:nth-child(4) .tx:after{display:none}.technology-expertise .why-choose-details li:nth-child(6) .tx:after{display:none}.why-choose-details .tx:after{display:none}.why-choose-details .dv:nth-last-child(-n+3) .tx:before{display:block}.tx:after{right:-8%}.sweden-header .header_caption h2{font-size:22px;margin-top:-12px}.nordic-main-content h2{font-size:45px;margin:0 auto;text-align:center}.nordic-main-content .section_content h3{line-height:28px;font-size:20px;margin:10px auto;text-align:center}.nordic-main-content .section_content{margin:0 auto 50px}.slovenia-industries-left-column.nordic-industries-left-column{margin-right:0;padding:1px 15px 10px 15px;background:rgba(255,89,89,.9)}.bg_image h4{margin-bottom:15px}.bg_image p{margin:0 4%}.section_title span{font-size:45px}.cloud-angle-area .bg-gray{min-height:130px}.section_title2{margin:9% 0}.section_title2 h4{text-align:center}.cloud-angle-area p{margin:30px 0}.section_title2 hr{margin:3% auto 9%}.owl-prev{left:0!important}.owl-prev.disabled{left:0!important}.owl-next{right:0!important}.owl-next.disabled{right:0!important}.conbanner{padding-top:164px!important}.bigtxt{text-align:left;margin-left:15px;font-size:40px}.cox12 h5{margin-left:5px!important}.cboxn{border:1px solid #e0e0e0;background-color:#143358}.pcontct{text-align:left}.anordic{font-size:12px!important}}
+@media only screen and (max-width:568px) {
+    .conbanner {padding-top: 164px!important;}
+    /*.bigtxt
+    {
+        text-align: left;
+        margin-left: 15px;
+        font-size: 40px;
+    }*/
+    .cox12 h5{margin-left: 5px!important;}
+    .cboxn 
+    {
+        border: 1px solid #2c2f3c;
+        background-color: #2c2f3c;
+    }
+    .pcontct{text-align: left;}
+    .anordic{font-size: 12px!important;}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .btnviewsevice {
+    padding-top: 32px;
+    padding-left: 12px;
+}
+.bannerblwcards {
+    width: 33%;
+    padding-bottom: 10px;
+}
+.newcard-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 2.25rem;
+    height: 338px;
+}
+ .newqnacard {
+    padding-bottom: 21px;
+}
+.ourcase-sec .caseRow {
+    padding: 40px 50px;
+    min-height: 997px;
+}
+.casestudy .carousel-control.left {
+    margin-left: 124px;
+} 
+.sedcard{
+    width: 50%;
+}
+.sedcardn{
+    padding-bottom: 30px;
+}
+.swdimg{
+    padding-top: 82px;
+    }
+    /* new menu css start*/
+.modelboxli1 {
+    padding-right: 10px!important;
+}
+.navredbtn {
+    padding: 10px 9px !important;   
+}
+.modelboxli1imh {
+    width: 25px;
+    padding-top: 10px;
+}
+/* new menu css end*/
+}
+@media only screen and (min-width: 1920px){
+
+/* new menu css start*/
+.modelboxli1 {
+    padding-right: 70px!important;
+}
+/* new menu css end*/
+}
